@@ -1,6 +1,9 @@
 # covid_19_ui
 
-A new Flutter project.
+## Covid-19 App Final UI
+
+![2](https://user-images.githubusercontent.com/108629629/225949957-a058e86d-906f-4e47-8e89-5e477a7e23b3.png)
+
 
 ## Getting Started
 
